@@ -11,5 +11,6 @@ public class Main {
                             .forEach(integer -> System.out.print("*"));
                     System.out.println();
                 });
+        System.out.println("Fork");
     }
 }
